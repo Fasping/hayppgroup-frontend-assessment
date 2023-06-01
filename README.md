@@ -1,4 +1,4 @@
-# hayppgroup-frontend-assessment
+# Haypp Group Frontend Assessment
 
 - Task Description in Node js 18.
 
